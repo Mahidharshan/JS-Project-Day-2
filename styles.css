@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://wallup.net/wp-content/uploads/2016/03/10/318220-photography-nature-water-landscape-lake-plants-trees.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+.mah{
+    background-color: rgba(0, 242, 255, 0.582);
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+ 
+}
